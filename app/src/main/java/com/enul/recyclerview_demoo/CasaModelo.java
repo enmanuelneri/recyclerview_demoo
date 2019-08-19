@@ -1,5 +1,6 @@
 package com.enul.recyclerview_demoo;
 
+/*Esta clase nos servira para representar al cantante y los datos con los que trabajaremos*/
 public class CasaModelo {
     private String codigo,descripcion;
     private int imgCasa;
