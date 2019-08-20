@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
+/* 2) */
 /*Esta clase tiene como funcion comunicar a nuestro RecyclerView de nuestro Layout la cantidad de
 * informacion que se utilizará para crear y poblar cada item de nuestra lista. Este actua como un
 * puente de comunicacion entre la "Presentacion" y la "fuente de informacion" a mostrar.
